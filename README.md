@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @delennpalmer
+- 👀 I’m interested in back-end software engineering and data analytics
+- 🌱 I’m currently learning everything data analytics
+- 💞️ I’m looking to collaborate on whatever peaks my interest at this point in time
+- 📫 How to reach me - Email: delennpalmer@gmail.com
